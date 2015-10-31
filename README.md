@@ -1,0 +1,3 @@
+# MyPetclinic
+fork自spring的官方demo，在其中加入了Hibernate和MyBatis的整合
+去除了spring jpa
